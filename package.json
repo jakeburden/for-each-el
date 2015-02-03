@@ -6,6 +6,11 @@
   "scripts": {
     "test": "tape test/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jekrb/forEachEl.git"
+  },
+  "homepage": "https://github.com/jekrb/forEachEl",
   "keywords": [
     "for",
     "each",
