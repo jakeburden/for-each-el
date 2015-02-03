@@ -40,10 +40,5 @@
     "tape": "^3.4.0"
   },
   "dependencies": {
-  },
-  "browserify": {
-    "transform": [
-      "brfs"
-    ]
   }
 }
