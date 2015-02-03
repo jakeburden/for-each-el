@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jekrb/forEachEl.git"
+    "url": "git://github.com/jekrb/for-each-el.git"
   },
-  "homepage": "https://github.com/jekrb/forEachEl",
+  "homepage": "https://github.com/jekrb/for-each-el",
   "keywords": [
     "for",
     "each",
