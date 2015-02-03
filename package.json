@@ -1,6 +1,6 @@
 {
   "name": "for-each-el",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny module simliar to .forEach(), but for DOM elements.",
   "main": "index.js",
   "scripts": {
